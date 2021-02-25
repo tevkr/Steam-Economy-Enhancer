@@ -27,6 +27,7 @@
 // ==/UserScript==
 // jQuery is already added by Steam, force no conflict mode.
 // comment1
+// comment2
 (function($, async) {
     $.noConflict(true);
 
