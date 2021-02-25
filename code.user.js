@@ -26,6 +26,7 @@
 // @updateURL   https://raw.githubusercontent.com/Nuklon/Steam-Economy-Enhancer/master/code.user.js
 // ==/UserScript==
 // jQuery is already added by Steam, force no conflict mode.
+// comment1
 (function($, async) {
     $.noConflict(true);
 
